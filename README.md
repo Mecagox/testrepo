@@ -1,2 +1,3 @@
 # testrepo
-creating new test repo for demo use
+creating new test repo for demo use. clear now
+
